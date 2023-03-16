@@ -1,0 +1,15 @@
+C:\Users\PC\src\FiniteStateMachine\bin\Debug\net6.0\FiniteStateMachine.exe
+C:\Users\PC\src\FiniteStateMachine\bin\Debug\net6.0\FiniteStateMachine.deps.json
+C:\Users\PC\src\FiniteStateMachine\bin\Debug\net6.0\FiniteStateMachine.runtimeconfig.json
+C:\Users\PC\src\FiniteStateMachine\bin\Debug\net6.0\FiniteStateMachine.dll
+C:\Users\PC\src\FiniteStateMachine\bin\Debug\net6.0\FiniteStateMachine.pdb
+C:\Users\PC\src\FiniteStateMachine\obj\Debug\net6.0\FiniteStateMachine.csproj.AssemblyReference.cache
+C:\Users\PC\src\FiniteStateMachine\obj\Debug\net6.0\FiniteStateMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\src\FiniteStateMachine\obj\Debug\net6.0\FiniteStateMachine.AssemblyInfoInputs.cache
+C:\Users\PC\src\FiniteStateMachine\obj\Debug\net6.0\FiniteStateMachine.AssemblyInfo.cs
+C:\Users\PC\src\FiniteStateMachine\obj\Debug\net6.0\FiniteStateMachine.csproj.CoreCompileInputs.cache
+C:\Users\PC\src\FiniteStateMachine\obj\Debug\net6.0\FiniteStateMachine.dll
+C:\Users\PC\src\FiniteStateMachine\obj\Debug\net6.0\refint\FiniteStateMachine.dll
+C:\Users\PC\src\FiniteStateMachine\obj\Debug\net6.0\FiniteStateMachine.pdb
+C:\Users\PC\src\FiniteStateMachine\obj\Debug\net6.0\FiniteStateMachine.genruntimeconfig.cache
+C:\Users\PC\src\FiniteStateMachine\obj\Debug\net6.0\ref\FiniteStateMachine.dll
