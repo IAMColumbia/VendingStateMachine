@@ -111,7 +111,6 @@ namespace FiniteStateMachine
 
             if (transition.Input == Input.InsertQuarter && transition.State != State.Off)
             { balance += 0.25; }
-            Console.WriteLine("Cost: " + (int)output + " Your balance: " + balance * 100);
             
             if ((int)output > balance * 100) //not enough money
             { output = Output.None; }
